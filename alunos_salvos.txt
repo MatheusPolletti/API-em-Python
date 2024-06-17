@@ -1,0 +1,16 @@
+{'nome': 'Matheus', 'id': '001', 'notas': {'Linguagem_de_programacao': 10.0, 'Engenharia_de_software': 10.0, 'Algoritmos': 10.0, 'Estrutura_de_dados': 10.0}}
+{'nome': 'Gabriel', 'id': '002', 'notas': {'Linguagem_de_programacao': 7.0, 'Engenharia_de_software': 8.0, 'Algoritmos': 8.0, 'Estrutura_de_dados': 7.5}}
+{'nome': 'Carlos', 'id': '003', 'notas': {'Linguagem_de_programacao': 7.5, 'Engenharia_de_software': 8.2, 'Algoritmos': 6.5, 'Estrutura_de_dados': 9.4}}
+{'nome': 'Andre', 'id': '004', 'notas': {'Linguagem_de_programacao': 6.5, 'Engenharia_de_software': 4.2, 'Algoritmos': 3.5, 'Estrutura_de_dados': 2.4}}
+{'nome': 'Ana', 'id': '005', 'notas': {'Linguagem_de_programacao': 10.0, 'Engenharia_de_software': 10.0, 'Algoritmos': 10.0, 'Estrutura_de_dados': 10.0}}
+{'nome': 'Kelvi', 'id': '006', 'notas': {'Linguagem_de_programacao': 5.0, 'Engenharia_de_software': 3.0, 'Algoritmos': 8.0, 'Estrutura_de_dados': 4.0}}
+{'nome': 'Fabio', 'id': '007', 'notas': {'Linguagem_de_programacao': 5.0, 'Engenharia_de_software': 4.2, 'Algoritmos': 3.2, 'Estrutura_de_dados': 2.1}}
+{'nome': 'Beatriz', 'id': '008', 'notas': {'Linguagem_de_programacao': 5.7, 'Engenharia_de_software': 8.6, 'Algoritmos': 9.6, 'Estrutura_de_dados': 10.0}}
+{'nome': 'Mariana', 'id': '009', 'notas': {'Linguagem_de_programacao': 10.0, 'Engenharia_de_software': 9.6, 'Algoritmos': 6.6, 'Estrutura_de_dados': 7.6}}
+{'nome': 'Filiph', 'id': '010', 'notas': {'Linguagem_de_programacao': 9.0, 'Engenharia_de_software': 10.0, 'Algoritmos': 8.0, 'Estrutura_de_dados': 9.5}}
+{'nome': 'Gabriela', 'id': '011', 'notas': {'Linguagem_de_programacao': 9.0, 'Engenharia_de_software': 8.0, 'Algoritmos': 7.8, 'Estrutura_de_dados': 9.6}}
+{'nome': 'Joana', 'id': '012', 'notas': {'Linguagem_de_programacao': 3.0, 'Engenharia_de_software': 9.9, 'Algoritmos': 3.0, 'Estrutura_de_dados': 2.0}}
+{'nome': 'Fabiana', 'id': '013', 'notas': {'Linguagem_de_programacao': 9.8, 'Engenharia_de_software': 6.1, 'Algoritmos': 7.6, 'Estrutura_de_dados': 6.7}}
+{'nome': 'Sara Alberto Coelho Pedro', 'id': '014', 'notas': {'Linguagem_de_programacao': 5.9, 'Engenharia_de_software': 5.5, 'Algoritmos': 6.1, 'Estrutura_de_dados': 6.4}}
+{'nome': 'Valeria', 'id': '015', 'notas': {'Linguagem_de_programacao': 9.9, 'Engenharia_de_software': 9.6, 'Algoritmos': 9.3, 'Estrutura_de_dados': 8.4}}
+{'nome': 'Heloisa', 'id': '016', 'notas': {'Linguagem_de_programacao': 10.0, 'Engenharia_de_software': 6.4, 'Algoritmos': 3.4, 'Estrutura_de_dados': 5.4}}
